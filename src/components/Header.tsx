@@ -1,7 +1,9 @@
 
 const Header = () => {
   return (
-    <div>New App</div>
+    <div className="p-8 border-2 border-white">
+      <h1>New App</h1>
+    </div>
   )
 }
 

@@ -1,5 +1,4 @@
 import {Routes, Route} from 'react-router-dom'
-import './App.css'
 import RootLayout from './pages/RootLayout'
 import {Home, Tasks} from './pages'
 
